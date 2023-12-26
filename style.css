@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: url(Background.jpg);
+    background-size: cover;
+}
+canvas{
+    border-radius: 5px;
+}
+#heading{
+    background-color: rgb(255, 176, 119);
+    color: black;
+}
+#theCentre{
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+#objectWantDetect{
+    border-radius: 5px;
+    height: max-content;
+}
